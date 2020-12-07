@@ -1,6 +1,6 @@
 Research – Costing and Aging
 Costing
-* Standard Calculator - 3$ - 5$
+* Standard Calculator - 3$ - 6$
 * Digital Calculator - 	5$ - 7$
 * Scientific Calculator - 10$ - 15$
 
