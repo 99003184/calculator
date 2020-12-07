@@ -18,8 +18,8 @@ Strengths
   
 Weakness
 
-  *	Does not perform all mathematical operations
-  *	Continuous input is required for each operation
+  *	Does not perform all mathematical operations.
+  *	Continuous input is required for each operations.
   
 Threats
 
