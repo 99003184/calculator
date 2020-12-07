@@ -15,7 +15,7 @@ test/test_function.c\
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
 # All include folders with header files
-INC = -Iinc
+INC	= -Iinc
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
 
@@ -50,5 +50,4 @@ clean:
 
 # Create new build folder if not present
 $(BUILD):
-
-mkdir build:
+	mkdir build
